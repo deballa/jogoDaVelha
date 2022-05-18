@@ -1,0 +1,34 @@
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+  .info p {
+    font-size: 3em;
+  }
+
+  .info .winner {
+    color: rgb(0, 145, 19);
+    font-weight: bolder;
+    font-size: 1.2em;
+    font-style: italic;
+  }
+
+  .info button {
+    margin-top: 15px;
+  }
+
+.board {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+  .board .plays {
+    color: rgb(10 8 156);
+    font-size: 4.5em;
+    font-style: italic;
+    font-weight: 600;
+  }

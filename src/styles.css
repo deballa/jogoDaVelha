@@ -1,0 +1,29 @@
+app-tic-tac-toe table {
+  margin-top: 55px;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+app-tic-tac-toe td {
+  border: 2px solid #000;
+  width: 5em; /*2 vezes o tamanho da fonte*/
+  height: 5em;
+  text-align: center;
+  vertical-align: middle;
+}
+
+html, body { height: 100%; }
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  background: url('assets/images/note.jpg') no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+}
+
+.tictactoe {
+  padding-top: 100px;
+}
