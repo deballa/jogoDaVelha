@@ -44,6 +44,7 @@ export class TicTacToeComponent {
         return true;
       }
     }
+    
     //diagonais
     if (this.board[0][0] == player && this.board[1][1] == player && this.board[2][2] == player) {
       return true;
@@ -64,6 +65,5 @@ export class TicTacToeComponent {
       ['','','']
     ];
   }
-
-  // console.log(`jogada na linha ${line}, coluna ${col} do jogador ${this.currentPlayer}`);
+  
 }
