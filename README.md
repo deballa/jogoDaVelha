@@ -1,27 +1,50 @@
-# JogoDaVelha
+## 💻 jogoDaVelha
+Game desenvolvido em angular durante o projeto do Bootcamp Desenvolvedor(a) Front End do IGTI.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+---
 
-## Development server
+## 👊 Objetivos
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- [x] Treinar conceitos de componentes, interface, diretivas estruturais e de atributo.
 
-## Code scaffolding
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 📋 Pré-requisitos
+Para executar as aplicações é necessário realizar as seguintes instalações:
 
-## Build
+[NodeJS](https://nodejs.org/en/);
+[Angular](https://angular.io/cli);
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
+## 🧭 Executando a aplicação mobile
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```
+$ npm install
+$ ng serve --open
+```
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 🗃️ Observação
 
-## Further help
+Este projeto foi gerado com Angular CLI versão 13.3.5.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+
+## 🖼️ Preview
+![](https://raw.githubusercontent.com/deballa/jogoDaVelha/master/src/assets/images/preview.gif)
+
+
+
+## 🛠 Tecnologias
+
+- Angular CLI
+- Angular Material
+- TypeScript
+- HTML5
+- CSS3
+
+---
+
+por Déborah Ballaminut de Lacerda 💜 
